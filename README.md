@@ -1,4 +1,4 @@
-# Cheating At Hacktoberfest
+# Hacktoberfest Shenanigans
 
 Honestly, I just want that T-shirt, they're very comfy.
 
