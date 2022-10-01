@@ -6,6 +6,8 @@ I don't have a lot of time to work on open source though. Not really hurting any
 
 We getting a T-Shirt boyos. Here we go again
 
+Ain't this hella nice
+
 # Can I join in?
 
 Sure, feel free to add to this repo if you happen to stumble on it. I'll accept anything that affects the README.md, so go nuts!
